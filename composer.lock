@@ -800,12 +800,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/bootstrap-fileinput.git",
-                "reference": "d2c8de9ae35d190fc4fe95d02c7ed23a1a398765"
+                "reference": "d5ed3ee989edbd5d67b8cf4bdadc9f3c18609965"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/kartik-v/bootstrap-fileinput/d2c8de9ae35d190fc4fe95d02c7ed23a1a398765.zip",
-                "reference": "d2c8de9ae35d190fc4fe95d02c7ed23a1a398765",
+                "url": "https://packagist.phpcomposer.com/files/kartik-v/bootstrap-fileinput/d5ed3ee989edbd5d67b8cf4bdadc9f3c18609965.zip",
+                "reference": "d5ed3ee989edbd5d67b8cf4bdadc9f3c18609965",
                 "shasum": ""
             },
             "type": "library",
@@ -845,7 +845,7 @@
                 "progress",
                 "upload"
             ],
-            "time": "2016-05-17 17:16:25"
+            "time": "2016-05-21 21:04:51"
         },
         {
             "name": "kartik-v/bootstrap-star-rating",
