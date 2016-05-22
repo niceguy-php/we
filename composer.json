@@ -23,7 +23,8 @@
         "2amigos/yii2-ckeditor-widget": "~1.0",
         "yiisoft/yii2-redis": "^2.0",
         "2amigos/yii2-highcharts-widget": "~1.0",
-        "yiisoft/yii2-mongodb": "^2.0"
+        "yiisoft/yii2-mongodb": "^2.0",
+        "lox/xhprof": "dev-master"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "*",
